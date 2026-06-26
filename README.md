@@ -23,13 +23,8 @@ This study investigates a dust plume event over the Indian region during **26 Ma
 │   ├── Feature_Importance.csv
 │   ├── Feature_Importance.png
 │   └── Observed_vs_Predicted.png
-│
-├── Paper/
-│   └── IEEE_Conference_Paper.pdf
-│
 ├── requirements.txt
-├── LICENSE
-└── README.md
+└── Data Availability
 ```
 
 ## Datasets
